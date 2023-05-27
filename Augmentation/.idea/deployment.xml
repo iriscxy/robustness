@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="myibex">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ibex/user/chenx0c/code/robust/V4_mask_release" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mywork">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chenx0c/a100/code/robust/V4_mask_move" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
